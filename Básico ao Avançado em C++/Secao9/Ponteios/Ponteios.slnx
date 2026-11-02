@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Ponteios.vcxproj" Id="b59e5e7a-d0cd-4215-8ac1-cbcc46492882" />
+</Solution>

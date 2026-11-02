@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="StacjHeap.vcxproj" Id="7407496b-9fad-4cb8-83ae-bf8e74a8a2f7" />
+</Solution>

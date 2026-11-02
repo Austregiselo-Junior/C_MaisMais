@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ChamadaPorFlecha.vcxproj" Id="5a058f62-6e85-47e6-8584-94ebae06f5b7" />
+</Solution>
